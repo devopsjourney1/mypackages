@@ -15,5 +15,5 @@ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 
 
 1. Create repo - and Checkin our Dockerfile
-2. Built your Github action workflow
+2. Build your Github action workflow
 3. Trigger our workflow
