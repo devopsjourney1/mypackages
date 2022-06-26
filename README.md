@@ -13,3 +13,4 @@ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 
 # Use Github Actions to Publish a Docker image to Github Packages (GHCR)
 
+
